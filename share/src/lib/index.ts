@@ -1,0 +1,1 @@
+export const SHARED_SECRET = 'hello world';

@@ -1,0 +1,13 @@
+{
+  "type": "container",
+  "version": "v21",
+  "appId": "com.domain.example.taon-example-org",
+  "monorepo": true,
+  "organization": true,
+
+  "packageJsonOverride": {
+    "author": "Dariusz Filipiak",
+    "description": "Description for taon-example-org. Hello world!",
+    "scripts": {}
+  }
+}

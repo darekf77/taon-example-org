@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "main"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "share"
+    }
+  ]
+}
