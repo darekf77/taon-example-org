@@ -27,6 +27,7 @@
   "packageJsonOverride": {
     "author": "Darek",
     "description": "Description for main. Hello world!",
-    "private": false
+    "private": false,
+    "scripts": {}
   }
 }
